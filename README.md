@@ -70,7 +70,7 @@ python code/gradio_app.py  # Gradio应用
 
 ## 作者
 学号：112304260150
-姓名：XXX
+姓名：郭珉
 
 ## 许可
 MIT License
