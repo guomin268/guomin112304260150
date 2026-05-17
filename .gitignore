@@ -1,6 +1,16 @@
-# 忽略大文件
-*.csv
-*.pdf
+# 忽略临时文件
+*.tmp
+*.temp
+
+# 忽略IDE配置
+.vscode/
+.idea/
+
+# 忽略缓存文件
+__pycache__/
+*.pyc
+*.pyo
+.Python
 
 # 忽略日志文件
 *.log
